@@ -8,7 +8,7 @@ In the project directory, you can run:
 
 ### `pnpm init`
 
-wanneer je een nieuw project in exp aanmaakt
+When you want to create a new project in `/exp`. You can create a folder and run `pnpm init`.
 
 ### `pnpm --filter=mono start`
 
