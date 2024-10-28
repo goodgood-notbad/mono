@@ -6,6 +6,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `pnpm init`
+
+When you want to create a new project in `/exp`. You can create a folder and run `pnpm init`.
+
+### `pnpm --filter=mono start`
+
 ### `npm start`
 
 Runs the app in the development mode.\
